@@ -1,7 +1,7 @@
-	Hello World!
-	- 👋 Hi, I’m @pennti1
-	- 👀 I’m interested in Programming
-	- 🌱 I’m currently learning Python
+Hello World!
+- 👋 Hi, I’m @pennti1
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python
 
 
 <!---
