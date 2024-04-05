@@ -14,11 +14,11 @@
 
 - 🔭 I’m currently working on **Mini Projects**
 
-- 🌱 I’m currently learning **python,Web development**
+- 🌱 I’m currently learning **Python,HTML**
 
-- 🤝 I’m looking for help with **python,Web development**
+- 🤝 I’m looking for help with **Python,Web development**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **moritzmaier34@gmail.com**
 
